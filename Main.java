@@ -24,7 +24,7 @@ public class Main {
                     {17,3}
         });
 
-        ArrayList<String> dictionary = loadDictionary("/Users/trevorstevens/Desktop/dictionary4.txt");
+        ArrayList<String> dictionary = loadDictionary("./dictionary4.txt");
 
         String plainText = "GOAT";
         System.out.println(plainText);
